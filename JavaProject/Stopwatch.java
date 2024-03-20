@@ -6,7 +6,7 @@ import java.util.TimeZone;
 
 /**
  * Created by Dima Masis
- * Date 04/05/2016
+ * Date 04/05/2016\ 2024
  */
 
 public class Stopwatch {
